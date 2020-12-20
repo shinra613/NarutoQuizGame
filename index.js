@@ -179,7 +179,7 @@ for(var j=0;j<data.length;j++){
  
  return console.log(chalk.white.bold(`Like the game, You can connect with me at 
  
- Twitter   : @Sithlordimpaler
+ Twitter   : @akhil_vn47
  Instagram : akhil.vn
  LinkedIn  : akhilvenkateshpillai\n`))
 
